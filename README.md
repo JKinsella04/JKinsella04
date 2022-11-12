@@ -1,4 +1,3 @@
-### Hi there 👋
 CS @ Florida Poly
 
 VEX robotics from Turning Point to Tipping Point
